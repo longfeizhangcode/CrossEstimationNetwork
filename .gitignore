@@ -1,0 +1,11 @@
+/data/
+/results/
+/demo/
+.vscode/
+*.txt
+/models/
+/results*
+.DS_Store
+/emp_study*
+scatter.py
+figs/
